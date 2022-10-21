@@ -101,6 +101,9 @@ figure{
     text-align: center;
     
 }
+.lg {
+    font-family: puma;
+}
 
 @font-face {
     font-family: puma;
